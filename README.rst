@@ -24,7 +24,7 @@ Updated 9th Apr 2022
 
 This is an unofficial Python wrapper for the `Binance exchange REST API v3 <https://binance-docs.github.io/apidocs/spot/en>`_. I am in no way affiliated with Binance, use at your own risk.
 
-If you came here looking for the `Binance exchange <https://www.binance.com/?ref=10099792>`_ to purchase cryptocurrencies, then `go here <https://www.binance.com/?ref=10099792>`_.
+If you came here looking for the `Binance exchange <https://www.binance.com/?ref=CRQ7Y5TF>`_ to purchase cryptocurrencies, then `go here <https://www.binance.com/?ref=CRQ7Y5TF>`_.
 If you want to automate interactions with Binance stick around.
 
 If you're interested in Binance's new DEX Binance Chain see my `python-binance-chain library <https://github.com/sammchardy/python-binance-chain>`_
@@ -79,7 +79,7 @@ converted to use Asynchronous Context Managers. See examples in the Async sectio
 Quick Start
 -----------
 
-`Register an account with Binance <https://accounts.binance.com/en/register?ref=10099792>`_.
+`Register an account with Binance <https://accounts.binance.com/en/register?ref=CRQ7Y5TF>`_.
 
 `Generate an API Key <https://www.binance.com/en/my/settings/api-management>`_ and assign relevant permissions.
 
@@ -261,12 +261,16 @@ for more information.
 Donate
 ------
 
-If this library helped you out feel free to donate.
+Enjoy - Donate - Buy me a beer! =]
+Thank you for using Binance to Google Sheets add-on!
+I really hope you enjoyed and loved it as much as I love to use it everyday.
 
-- ETH: 0xD7a7fDdCfA687073d7cC93E9E51829a727f9fE70
-- LTC: LPC5vw9ajR1YndE1hYVeo3kJ9LdHjcRCUZ
-- NEO: AVJB4ZgN7VgSUtArCt94y7ZYT6d5NDfpBo
-- BTC: 1Dknp6L6oRZrHDECRedihPzx2sSfmvEBys
+If your love is strong enough, feel free to share it with me! =D
+I will much appreciate any contribution and support to keep working on it.
+I have several ideas for new features, so much more could come!
+
+You can send any token through the Binance Smart Chain (BSC/BEP20) to the address:
+0x51CeC0bB36BacC9765e1A5fa67b84810DeF607Ae
 
 Other Exchanges
 ---------------
